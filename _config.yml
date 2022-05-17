@@ -22,10 +22,7 @@ url     : # the base hostname & protocol for your site e.g. https://www.someone.
 baseurl : # does not include hostname
 title   : Glit-Jill
 description: > # this means to ignore newlines until "Language & timezone"
-      My blog, just for study
-
-咲け輪廻の OH 咲けロータス OH
-  	绽放吧 轮回之莲
+      My blog, just for study 
 
 ## => Language and Timezone
 ##############################
