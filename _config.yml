@@ -11,11 +11,9 @@
 #    |  |  \   --. /  .'.  \  |  |
 #    `--'   `----''--'   '--' `--'
 
-<<<<<<< HEAD
 
-=======
 theme: jekyll-text-theme
->>>>>>> 6801caec (first commit)
+
 
 
 ## => Site Settings
@@ -24,27 +22,11 @@ text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 title   : Glit-Jill
 description: > # this means to ignore newlines until "Language & timezone"
   My blog, just for study
-=======
-title   : Your Site Title
-description: > # this means to ignore newlines until "Language & timezone"
-  Your Site Description
->>>>>>> 6801caec (first commit)
 
-=======
-title   : Glit-Jill
-description: > # this means to ignore newlines until "Language & timezone"
-      My blog, just for study
-<<<<<<< HEAD
-咲け輪廻の OH 咲けロータス OH
-  	绽放吧 轮回之莲
->>>>>>> 933b9ea8 (Update _config.yml)
-=======
->>>>>>> a5c07f72 (Update _config.yml)
 
 ## => Language and Timezone
 ##############################
