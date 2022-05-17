@@ -25,6 +25,7 @@ highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "t
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
 <<<<<<< HEAD
+<<<<<<< HEAD
 title   : Glit-Jill
 description: > # this means to ignore newlines until "Language & timezone"
   My blog, just for study
@@ -34,7 +35,16 @@ description: > # this means to ignore newlines until "Language & timezone"
   Your Site Description
 >>>>>>> 6801caec (first commit)
 
+=======
+title   : Glit-Jill
+description: > # this means to ignore newlines until "Language & timezone"
+\t My blog, just for study
+咲け輪廻の OH 咲けロータス OH
+  	绽放吧 轮回之莲
+>>>>>>> 933b9ea8 (Update _config.yml)
 
+響け千年よ OH 響け毎秒に OH
+让这声音响彻数千年响尽每一刻
 ## => Language and Timezone
 ##############################
 lang: # the language of your site, default as "en"
