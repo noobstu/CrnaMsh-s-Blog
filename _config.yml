@@ -39,27 +39,28 @@ description: > # this means to ignore newlines until "Language & timezone"
 title   : Glit-Jill
 description: > # this means to ignore newlines until "Language & timezone"
       My blog, just for study
+<<<<<<< HEAD
 咲け輪廻の OH 咲けロータス OH
   	绽放吧 轮回之莲
 >>>>>>> 933b9ea8 (Update _config.yml)
+=======
+>>>>>>> a5c07f72 (Update _config.yml)
 
-響け千年よ OH 響け毎秒に OH
-让这声音响彻数千年响尽每一刻
 ## => Language and Timezone
 ##############################
 lang: # the language of your site, default as "en"
-timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
+timezone: America/New_York # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
 
 
 ## => Author and Social
 ##############################
 author:
-  type      : # "person" (default), "organization"
-  name      : Your Name
+  type      : person # "person" (default), "organization"
+  name      : CrnaMsh
   url       :
   avatar    : # path or url of avatar image (square)
-  bio       : I am an amazing person.
-  email     :
+  bio       : 只是一个无聊的萌新www.
+  email     :730373448@qq.com
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
