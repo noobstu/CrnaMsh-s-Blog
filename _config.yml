@@ -32,10 +32,10 @@ timezone:  # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones fo
 
 ## => Author and Social
 ##############################
-author:
+CrnaMsh:
   type      : person # "person" (default), "organization"
   name      : CrnaMsh
-  url       :
+  url       : https://noobstu.github.io/jekyll-TeXt-theme.CrnaMsh.github.io/
   avatar    : https://s1.ax1x.com/2022/05/18/OIwjQf.jpg # path or url of avatar image (square)
   bio       : 只是一个无聊的萌新www.
   email     : 730373448@qq.com

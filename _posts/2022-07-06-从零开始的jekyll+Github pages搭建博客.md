@@ -1,13 +1,8 @@
-﻿----------
+﻿---
+layout: article
 title: 从零开始的jekyll+Github pages搭建博客
 tags: 教程 博客 Jekyll Github-Pages ruby
-
-----------
-## 目录
-[TOC]
-
-
-----------
+---
 
 
 ## 前言&瞎扯
@@ -21,8 +16,6 @@ tags: 教程 博客 Jekyll Github-Pages ruby
 不过你也许可以参考一下以下的步骤
 >安装 Xcode 和 Command-Line Tools。下载方式 Preferences → Downloads → Components
 
-
-----------
 
 
 ## ***1.介绍***
@@ -61,9 +54,6 @@ tags: 教程 博客 Jekyll Github-Pages ruby
 
 
 
-----------
-
-
 ## ***2.环境安装***
 ###**安装ruby环境**
 点开这个链接[Ruby](http://www.ruby-lang.org/en/downloads/)
@@ -91,16 +81,13 @@ $ gem install jekyll
 ```
  这样就完成啦
  
- 
-
-
-----------
 
 
 ## ***3.搭建步骤***
 ### **1.在github创建远端仓库**
 
 在任何gtihub页面的右上角，使用 +下拉菜单选择 New repository（新建仓库）
+
 [![jNsnKO.png](https://s1.ax1x.com/2022/07/05/jNsnKO.png)](https://imgtu.com/i/jNsnKO)
 
 使用 Owner（所有者）下拉菜单选择你想要拥有仓库的帐户。
@@ -137,6 +124,7 @@ gem "github-pages", "~> GITHUB-PAGES-VERSION", group: :jekyll_plugins
 接下来就是在本地进行测试（可以跳过此步骤，但是不建议），随后push到你的远端上
 ### **3.在本地通过Jekyll测试**
 在你刚刚创建了博客的文件里用终端打开
+
 [![jat1Xj.png](https://s1.ax1x.com/2022/07/06/jat1Xj.png)](https://imgtu.com/i/jat1Xj)
 
 运行
@@ -179,8 +167,6 @@ $ git push -u origin BRANCH
 [![jdSMiF.png](https://s1.ax1x.com/2022/07/06/jdSMiF.png)](https://imgtu.com/i/jdSMiF)
 
 
-----------
-
 
 ## ***4.博客美化***
 说到博客美化，那自然是对于博客主题的选择（其实也可以自己写，请大佬开始你的表演）
@@ -198,8 +184,6 @@ $ git push -u origin BRANCH
 里面有很多可以自定义的博客模板
 选一个你喜欢的吧
 
-
-----------
 ## ***5.撰写博客文章***
 　　所有的文章都是 _posts 目录下面，文章格式为 markdown 格式，文章文件名可以是 .markdown 或者 .md。
 
@@ -219,13 +203,12 @@ title: 显示的文章名， 如：title: 我的第一篇文章
 date: 显示的文章发布日期，如：date: 2016-10-16
 categories: tag标签的分类，如：categories: 随笔
 
-注意：文章头部格式必须为上面的
+注意：文章头部格式可以依据你选择的主题不同而不同
+{:.warning}
 
 关于markdown格式的语法可以参考[Cmd Markdown 编辑阅读器的教程](https://www.zybuluo.com/mdeditor#)
 
 
-
-----------
 ## 6.后记
 本文只提供了最基本的搭建博客方法和使用方法
 你说其他例如评论功能？
