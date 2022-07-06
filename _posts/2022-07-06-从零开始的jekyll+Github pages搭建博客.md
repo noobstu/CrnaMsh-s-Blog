@@ -55,15 +55,15 @@ tags: 教程 博客 Jekyll Github-Pages ruby
 
 
 ## ***2.环境安装***
-###**安装ruby环境**
+### **安装ruby环境**
 点开这个链接[Ruby](http://www.ruby-lang.org/en/downloads/)
 看到Ways of Installing Ruby这栏，根据不同的操作系统选择不同的方式安装Ruby（想要学习源码也可以在下面下载）
 
-###**安装RubyGems**
+### **安装RubyGems**
 点开这个链接[RubyGems](https://rubygems.org/pages/download)
 下载压缩包，解压后运行setup.rb
 
-###**安装Git Bash**
+###* *安装Git Bash**
 对于git环境的配置，为了方便部署到远端服务器
 [git Bash安装](https://git-scm.com/download/win)
 下载对应版本后运行~
@@ -71,7 +71,7 @@ tags: 教程 博客 Jekyll Github-Pages ruby
 
  *注意：学到配置ssh就可以了，关于push代码的部分，后续会提到，与教程中的方法并不一致*
 
-###**安装Jekyll环境**
+### **安装Jekyll环境**
  打开cmd，输入以下指令
 
 ```
