@@ -63,7 +63,7 @@ tags: 教程 博客 Jekyll Github-Pages ruby
 点开这个链接[RubyGems](https://rubygems.org/pages/download)
 下载压缩包，解压后运行setup.rb
 
-###* *安装Git Bash**
+### **安装Git Bash**
 对于git环境的配置，为了方便部署到远端服务器
 [git Bash安装](https://git-scm.com/download/win)
 下载对应版本后运行~
